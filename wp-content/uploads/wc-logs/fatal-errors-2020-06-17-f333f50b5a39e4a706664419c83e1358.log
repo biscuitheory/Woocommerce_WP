@@ -1,0 +1,21 @@
+2020-06-17T14:19:13+00:00 CRITICAL Uncaught Error: Class 'Satisfaction' not found in /Applications/MAMP/htdocs/projet_sylur/wp-content/plugins/sondage/sondage.php:35
+Stack trace:
+#0 /Applications/MAMP/htdocs/projet_sylur/wp-admin/includes/plugin.php(659): include_once()
+#1 /Applications/MAMP/htdocs/projet_sylur/wp-admin/plugins.php(44): activate_plugin('sondage/sondage...', 'http://localhos...', false)
+#2 {main}
+  thrown dans /Applications/MAMP/htdocs/projet_sylur/wp-content/plugins/sondage/sondage.php à la ligne 35
+
+2020-06-17T14:19:15+00:00 CRITICAL Uncaught Error: Class 'Satisfaction' not found in /Applications/MAMP/htdocs/projet_sylur/wp-content/plugins/sondage/sondage.php:35
+Stack trace:
+#0 /Applications/MAMP/htdocs/projet_sylur/wp-admin/includes/plugin.php(2255): include()
+#1 /Applications/MAMP/htdocs/projet_sylur/wp-admin/plugins.php(177): plugin_sandbox_scrape('sondage/sondage...')
+#2 {main}
+  thrown dans /Applications/MAMP/htdocs/projet_sylur/wp-content/plugins/sondage/sondage.php à la ligne 35
+
+2020-06-17T14:19:15+00:00 CRITICAL Uncaught Error: Class 'Satisfaction' not found in /Applications/MAMP/htdocs/projet_sylur/wp-content/plugins/sondage/sondage.php:35
+Stack trace:
+#0 /Applications/MAMP/htdocs/projet_sylur/wp-admin/includes/plugin.php(2255): include()
+#1 /Applications/MAMP/htdocs/projet_sylur/wp-admin/plugins.php(177): plugin_sandbox_scrape('sondage/sondage...')
+#2 {main}
+  thrown dans /Applications/MAMP/htdocs/projet_sylur/wp-content/plugins/sondage/sondage.php à la ligne 35
+
